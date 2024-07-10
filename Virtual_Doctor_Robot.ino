@@ -1,13 +1,7 @@
-//Arduino Human Following Robot
-// Created By DIY Builder
-// You have to install the AFMotor and NewPing library Before Uploading the sketch
-// You can find all the required libraris from arduino library manager.
-// Contact me on instagram for any query(Insta Id : diy.builder)
-// Modified 7 Mar 2022
-// Version 1.1
 
 
-//include the library code:
+
+
 #include<NewPing.h>           
 #include<Servo.h>             
 #include<AFMotor.h>           
